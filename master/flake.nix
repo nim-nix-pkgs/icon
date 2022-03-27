@@ -11,6 +11,7 @@
   inputs.src-icon-master.ref   = "refs/heads/master";
   inputs.src-icon-master.owner = "bung87";
   inputs.src-icon-master.repo  = "icon";
+  inputs.src-icon-master.dir   = "";
   inputs.src-icon-master.type  = "github";
   
   inputs."nimpng".owner = "nim-nix-pkgs";
